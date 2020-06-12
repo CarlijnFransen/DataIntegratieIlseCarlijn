@@ -5,10 +5,10 @@ Data integratie project bio-informatica jaar 3.
 Carlijn Fransen & Ilse den Brok Bin-3d.
 
 
-Als je de repository cloned kan deze gerund worden met behulp van docker.
+Als je de repository cloned kan deze gerund worden met behulp van docker. (als dit werkt :( )
 
 
-Hiervoor moet wel handmatig mongo db geinstalleerd worden.
+Hiervoor moet wel handmatig mongo db geinstalleerd en gestart worden.
 
 
 input_file.txt is een test bestand, de 2e moet een hit terug geven (de 1e regel niet).
